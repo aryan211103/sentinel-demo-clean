@@ -9,7 +9,6 @@ function addItem(name, quantity) {
   return item;
 }
 
-
 function totalQuantity() {
   return items.reduce((sum, item) => sum + item.quantity, 0);
 }
