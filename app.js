@@ -27,3 +27,4 @@ function removeItem(id) {
 }
 
 export { addItem, totalQuantity, findItem, removeItem };
+//Test
